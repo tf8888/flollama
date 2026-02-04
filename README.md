@@ -113,7 +113,7 @@ For full license terms, see [LICENSE](LICENSE).
 
 **Flollama** isn’t just a chatbot — it's proof that solo developers can build powerful AI tools that are **open**, **accessible**, and **beautifully designed**.
 
-Built with ❤️ by [Pratyush Kumar](https://nvmpratyush.vercel.app/), Flollama is your friendly, fast, and free AI assistant. Ask questions, spark ideas, or just chat — anytime, anywhere.
+Flollama is your friendly, fast, and free AI assistant. Ask questions, spark ideas, or just chat — anytime, anywhere.
 
 ---
 
