@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**Flollama** is a modern conversational AI chatbot developed by **[Pratyush Kumar](https://github.com/pratyush0898)**. Built using **Gemini 2.0 Flash Lite**, origanally, **Meta's LLaMA 3.2**, and a sleek **Next.js interface**, it offers an open-source, privacy-respecting ChatGPT-style experience — ideal for students, creators, and casual users alike.
+Built using **Gemini 2.0 Flash Lite**, origanally, **Meta's LLaMA 3.2**, and a sleek **Next.js interface**, it offers an open-source, privacy-respecting ChatGPT-style experience — ideal for students, creators, and casual users alike.
 
 ---
 
